@@ -3,10 +3,7 @@ public class Pessoa {
     private int idade;
 
     // Construtor
-    public Pessoa(String nome, int idade) {
-        this.nome = nome;
-        this.idade = idade;
-    }
+
 
     // Getter para o nome
     public String getNome() {
